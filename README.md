@@ -47,7 +47,7 @@ This project demonstrates a microcontroller-based speed and device control syste
 - Application of PWM in controlling devices like LEDs and fans.
 
 ## Author
-**[Your Name]** – Aspiring Electronic Communication Engineer  
+**[Semalign Markos]** – Aspiring Electronic Communication Engineer  
 GitHub: [your-github-link]  
 
 ## License
