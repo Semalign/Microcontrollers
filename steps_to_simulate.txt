@@ -1,0 +1,6 @@
+simple steps 
+1. create a project in IAR and add the files main.c and lpc214x.h file 
+2. in project options add file lpc2148 
+3. check the box to create hex file
+4. open the proteus file
+5. simulate
